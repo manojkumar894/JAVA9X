@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="50375469-5d1c-4275-81b0-1d6dc364e235" name="Changes" comment="subtract with function">
-      <change afterPath="$PROJECT_DIR$/src/OCT/ex_23102024_functions/lab113.java" afterDir="false" />
+    <list default="true" id="50375469-5d1c-4275-81b0-1d6dc364e235" name="Changes" comment="vote check">
+      <change afterPath="$PROJECT_DIR$/src/OCT/ex_23102024_functions/lab114.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,6 +61,7 @@
     "Application.helloworld.executor": "Run",
     "Application.lab112.executor": "Run",
     "Application.lab113.executor": "Run",
+    "Application.lab114.executor": "Run",
     "Application.sum.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -117,7 +118,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729754807844</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="vote check">
+      <option name="closed" value="true" />
+      <created>1729755800255</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1729755800255</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -125,6 +134,7 @@
     <MESSAGE value="add program" />
     <MESSAGE value="add program with function" />
     <MESSAGE value="subtract with function" />
-    <option name="LAST_COMMIT_MESSAGE" value="subtract with function" />
+    <MESSAGE value="vote check" />
+    <option name="LAST_COMMIT_MESSAGE" value="vote check" />
   </component>
 </project>
