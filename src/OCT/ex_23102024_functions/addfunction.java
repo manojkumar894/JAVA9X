@@ -14,7 +14,8 @@ public class addfunction {
         int sum= 0;
         sum = a + b;
 
-        System.out.println("Result = "+ sum);
+        System.out.println("Result is = "+ sum);
+
 
     }
 }
